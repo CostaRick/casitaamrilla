@@ -892,23 +892,6 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/casita-2017neu1-1970x802.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "FULL-SCREEN SLIDER",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Wählen Sie aus einer großen Auswahl der jüngsten voreingestellten Blocks - Jumbotrons, Heldenbilder, Parallax-Scrolling, Videohintergründe und so weiter.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR MAC</a>"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/20170826-95013-2000x1125.jpg",
                 "active": false,
                 "showButtons": false,
@@ -1046,7 +1029,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-04-03-at-18.05.12-1280x768.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1060,6 +1043,40 @@
                 "contentAlign": "center",
                 "text": "Wählen Sie aus einer großen Auswahl der jüngsten voreingestellten Blocks - Jumbotrons, Heldenbilder, Parallax-Scrolling, Videohintergründe und so weiter.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-06-19-at-17.28.19-768x1280.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "VIDEO SLIDE",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide mit Youtube-Video-Hintergrund und Farboverlay. Titel und Text sind linksbündig ausgerichtet.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-06-19-at-16.07.17-768x1280.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "VIDEO SLIDE",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Slide mit Youtube-Video-Hintergrund und Farboverlay. Titel und Text sind linksbündig ausgerichtet.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FÜR MAC</a>"
               }
             ]
           }
